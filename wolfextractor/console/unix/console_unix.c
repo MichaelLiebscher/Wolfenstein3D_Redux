@@ -1,6 +1,6 @@
 /*
 
-	Copyright (C) 2007 Michael Liebscher <johnnycanuck@users.sourceforge.net>
+	Copyright (C) 2007 Michael Liebscher <wolf3d.redux@gmail.com>
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License

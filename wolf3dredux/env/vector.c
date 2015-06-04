@@ -1,6 +1,6 @@
 /*
 
-	Copyright (C) 2005 Michael Liebscher <johnnycanuck@users.sourceforge.net>
+	Copyright (C) 2005 Michael Liebscher <wolf3d.redux@gmail.com>
 	Copyright (C) 1997-2001 Id Software, Inc.
 
 	This program is free software; you can redistribute it and/or
@@ -22,7 +22,7 @@
 /*
  *	vector.h: 2D and 3D vector math routines.
  *	
- *	Author:	Michael Liebscher	<johnnycanuck@users.sourceforge.net>	    
+ *	Author:	Michael Liebscher	<wolf3d.redux@gmail.com>	    
  *
  *	Acknowledgement:
  *	Portion of this code was derived from Quake II, and was originally
@@ -402,7 +402,7 @@ INLINECALL vec_t vectorLength( const vec3_t v )
         hand rule picks the one out of two possible perpendicular directions.
 
 	    Computing Cross Product from Column Matrices:
-		   u × v  = ( uj vk - uk vj , uk vi - ui vk , ui vj - uj vi )T
+		   u Ã— v  = ( uj vk - uk vj , uk vi - ui vk , ui vj - uj vi )T
 -----------------------------------------------------------------------------
 */
 PUBLIC void vectorCrossProduct( const vec3_t v1, const vec3_t v2, vec3_t cross )
@@ -426,7 +426,7 @@ PUBLIC void vectorCrossProduct( const vec3_t v1, const vec3_t v2, vec3_t cross )
         number as its output. Sometimes the dot product is called the inner 
         product or the scalar product.
 		The dot product is:
-			a · b = a1b1 + a2b2 + a3b3
+			a Â· b = a1b1 + a2b2 + a3b3
 -----------------------------------------------------------------------------
 */
 PUBLIC vec_t _vectorDotProduct( const vec3_t v1, const vec3_t v2 )

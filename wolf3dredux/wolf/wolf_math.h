@@ -22,7 +22,7 @@
 /*
  *	wolf_math.h:  Wolfenstein 3-D math routines.
  *	
- *	Author:	Michael Liebscher <johnnycanuck@users.sourceforge.net>
+ *	Author:	Michael Liebscher <wolf3d.redux@gmail.com>
  *
  *	Acknowledgement:
  *	This code was derived from NewWolf, and was originally

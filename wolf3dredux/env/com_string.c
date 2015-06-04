@@ -1,6 +1,6 @@
 /*
 
-	Copyright (C) 2004-2012 Michael Liebscher <johnnycanuck@users.sourceforge.net>
+	Copyright (C) 2004-2012 Michael Liebscher <wolf3d.redux@gmail.com>
 	Copyright (C) 1998 Todd C. Miller <Todd.Miller@courtesan.com>
 
 	This program is free software; you can redistribute it and/or

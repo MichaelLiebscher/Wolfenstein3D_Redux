@@ -23,7 +23,7 @@
 /*
  *	unix_keys.c: unix key input layer. 
  *	
- *	Author:	Michael Liebscher <johnnycanuck@users.sourceforge.net>	
+ *	Author:	Michael Liebscher <wolf3d.redux@gmail.com>	
  *
  *	Acknowledgement:
  *	This code was derived from Quake II, and was originally

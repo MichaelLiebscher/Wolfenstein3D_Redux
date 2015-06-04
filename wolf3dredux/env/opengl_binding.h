@@ -22,7 +22,7 @@
 /*
  *	opengl_binding.h:   Interface to OpenGL library.
  *	
- *	Author:	Michael Liebscher	<johnnycanuck@users.sourceforge.net>	    
+ *	Author:	Michael Liebscher	<wolf3d.redux@gmail.com>	    
  *	Date:	2004   
  *
  */

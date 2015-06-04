@@ -1,6 +1,6 @@
 /*
 
-	Copyright (C) 2005-2009 Michael Liebscher <johnnycanuck@users.sourceforge.net>
+	Copyright (C) 2005-2009 Michael Liebscher <wolf3d.redux@gmail.com>
 	Copyright 2000-2002, Michael Smith <msmith@xiph.org>
 	(c) Kenneth Arnold <kcarnold@yahoo.com>
 	(c) Monty <monty@xiph.org>

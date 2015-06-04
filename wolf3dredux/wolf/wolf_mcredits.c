@@ -1,6 +1,6 @@
 /*
 
-	Copyright (C) 2004-2013 Michael Liebscher <johnnycanuck@users.sourceforge.net>
+	Copyright (C) 2004-2013 Michael Liebscher <wolf3d.redux@gmail.com>
 	Copyright (C) 1997-2001 Id Software, Inc.
 
 	This program is free software; you can redistribute it and/or
@@ -51,7 +51,7 @@ PRIVATE const char *reduxcredits[] =
 	"",
 	"+Code Conductor",
 	"Michael Liebscher",
-	"email: johnnycanuck@users.sourceforge.net",
+	"email: wolf3d.redux@gmail.com",
 	"",
 	"Be sure to check out",
 	"+http://wolf3dredux.sourceforge.net", 

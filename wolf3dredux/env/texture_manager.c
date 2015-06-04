@@ -1,6 +1,6 @@
 /*
 
-	Copyright (C) 2004-2012 Michael Liebscher <johnnycanuck@users.sourceforge.net>	 
+	Copyright (C) 2004-2012 Michael Liebscher <wolf3d.redux@gmail.com>	 
 	Copyright (C) 1997-2001 Id Software, Inc.
 	Copyright (C) 1995 Spencer Kimball and Peter Mattis.
 

@@ -1,6 +1,6 @@
 /*
 
-	Copyright (C) 2004-2005 Michael Liebscher <johnnycanuck@users.sourceforge.net>
+	Copyright (C) 2004-2005 Michael Liebscher <wolf3d.redux@gmail.com>
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
@@ -21,7 +21,7 @@
 /*
  *	main.c:   Extract Wolfenstein 3-D sign on image from signon.obj
  *	
- *	Author:  Michael Liebscher    <johnnycanuck@users.sourceforge.net>  	    
+ *	Author:  Michael Liebscher    <wolf3d.redux@gmail.com>  	    
  *
  */
  

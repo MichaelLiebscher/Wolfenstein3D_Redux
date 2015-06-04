@@ -21,7 +21,7 @@
 /*
  *	MyOpenGL.h:   OpenGL Interface
  *	
- *	Author:  Michael Liebscher    <johnnycanuck@users.sourceforge.net>  
+ *	Author:  Michael Liebscher    <wolf3d.redux@gmail.com>  
  *
  */
 

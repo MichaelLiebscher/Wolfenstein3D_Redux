@@ -1,5 +1,5 @@
 /*
-	Copyright (C) 2004 Michael Liebscher <johnnycanuck@users.sourceforge.net>
+	Copyright (C) 2004 Michael Liebscher <wolf3d.redux@gmail.com>
 	Copyright (C) 1997-2001 Id Software, Inc.	
 
 	This program is free software; you can redistribute it and/or
@@ -21,7 +21,7 @@
 /**
  * \file unix_file.c
  * \brief Handles non-portable file services.
- * \author Michael Liebscher <johnnycanuck@users.sourceforge.net>
+ * \author Michael Liebscher <wolf3d.redux@gmail.com>
  * \author 1997-2001 Id Software, Inc.
  * \note Portion of this code was derived from Quake II, and was originally written by Id Software, Inc.
  * \date 2004

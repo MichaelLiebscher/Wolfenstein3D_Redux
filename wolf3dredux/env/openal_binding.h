@@ -21,7 +21,7 @@
 /*
  *	openal_binding.h: Interface to OpenAL library.
  *	
- *	Author:	Michael Liebscher <johnnycanuck@users.sourceforge.net>	
+ *	Author:	Michael Liebscher <wolf3d.redux@gmail.com>	
  *	Date:	2004
  *
  */

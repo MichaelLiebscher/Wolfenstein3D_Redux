@@ -1,6 +1,6 @@
 /*
 
-	Copyright (C) 2004 Michael Liebscher <johnnycanuck@users.sourceforge.net>
+	Copyright (C) 2004 Michael Liebscher <wolf3d.redux@gmail.com>
 	Copyright (C) 1997-2001 Id Software, Inc.
 
 	This program is free software; you can redistribute it and/or
@@ -22,7 +22,7 @@
 /*
  *	console.h: Console drawing and management..
  *	
- *	Author:	Michael Liebscher	<johnnycanuck@users.sourceforge.net>	    
+ *	Author:	Michael Liebscher	<wolf3d.redux@gmail.com>	    
  *
  *	Acknowledgement:
  *	This code was derived from Quake II, and was originally
